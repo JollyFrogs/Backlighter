@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backlighter", "Backlighter.csproj", "{7D8AFE7B-A623-4EC6-8701-2C0D066A99CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D8AFE7B-A623-4EC6-8701-2C0D066A99CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8AFE7B-A623-4EC6-8701-2C0D066A99CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8AFE7B-A623-4EC6-8701-2C0D066A99CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8AFE7B-A623-4EC6-8701-2C0D066A99CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30551D62-3132-40C6-ADDC-9E59F8ABBE9C}
+	EndGlobalSection
+EndGlobal
