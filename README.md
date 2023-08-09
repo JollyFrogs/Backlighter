@@ -1,5 +1,7 @@
 # Backlighter
-A tiny program that keeps the backlighting on the Logitech MX Keys permanently on. The program sends USB control messages to disable, and then reenable the backlight on your MX Keys keyboard every 180 seconds. It's meant to be used whilst charging. I haven't found a way to turn the light on without (very) briefly turning it off, so occasionally your keyboard light may flicker briefly every 3 minutes. If someone finds a way to send a USB (HID) command that doesn't require disabling the backlight, let me know :)
+A tiny program that keeps the backlighting on the Logitech MX Keys permanently on. The program sends USB control messages to disable, and then reenable the backlight on your MX Keys keyboard every 180 seconds. It's meant to be used whilst charging. I haven't found a way to turn the light on without (very) briefly turning it off, so occasionally your keyboard light may flicker briefly every 3 minutes. If someone finds a way to send a USB (HID) command that doesn't require disabling the backlight, let me know or submit a Pull Request.
+
+In case you trust me, or are unable to compile the solution, you can download the compiled binary from the 'bin' folder.
 
 # Compile instructions
 1) Install Visual Studio Community 2022 with the '.NET desktop development' Workload
